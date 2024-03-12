@@ -1,0 +1,1 @@
+pip install git+https://github.com/mgjeon/magnetic_field_line.git
