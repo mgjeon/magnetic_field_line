@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='magplot',
-    version='0.1',
+    version='0.2',
     description='',
     url='https://github.com/mgjeon/magnetic_field_line',
     author='Mingyu Jeon',
@@ -12,5 +12,6 @@ setup(
         'numpy',
         'pyvista',
         'matplotlib',
+        'streamtracer'
     ],
 )
